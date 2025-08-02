@@ -3,7 +3,7 @@
 
 # app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
 
-# @app.route(route="process_data")
+## @app.route(route="process_data")
 # def process_data(req: func.HttpRequest) -> func.HttpResponse:
 #     logging.info('Python HTTP trigger function processed a request.')
 
